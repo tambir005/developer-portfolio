@@ -148,3 +148,25 @@ main{
     margin-top: 50px;
     text-align: center;
 }
+/* Contract Styles  */
+.contract .section-tittle{
+    text-align: left;
+}
+.contract{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contract input[type="text"], input[type="email"],  textarea{
+    margin-bottom: 24px;
+    padding: 18px 30px;
+    width: 100%;
+    border: 0;
+}
+input{
+    height: 64px;
+}
+.contract a{
+    text-decoration: none;
+}
