@@ -127,3 +127,24 @@ main{
     color: #757575;
 }
 /* Resume Style  */
+
+.resume-content{
+    display: flex;
+}
+.resume .tittle{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+}
+.resume .sub-tittle{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+}
+.resume .discription{
+    color: #757575 ;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
